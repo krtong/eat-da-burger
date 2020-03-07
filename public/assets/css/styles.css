@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(255, 205, 97) ;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+.card-body {
+  background: rgb(255, 205, 97) ;
+  border: 0px !important;
+}
+
+.card-body button {
+  margin: 5px
+}
